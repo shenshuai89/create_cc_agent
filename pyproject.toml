@@ -1,0 +1,11 @@
+
+name = "create_cc_agent"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "python-env>=1.0.0",
+    "anthropic",
+    "python-dotenv",
+]
