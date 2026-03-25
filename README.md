@@ -22,3 +22,8 @@ deactivate
 
 
 ```
+
+## 项目原地址
+
+- https://learn.shareai.run/
+- https://github.com/shareAI-lab/learn-claude-code
